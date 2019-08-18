@@ -1,4 +1,4 @@
-# persistent_timer_flutter
+# persistent_timer
 
 A new Flutter application.
 

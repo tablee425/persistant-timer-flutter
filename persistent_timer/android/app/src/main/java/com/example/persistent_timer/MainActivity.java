@@ -1,4 +1,4 @@
-package com.example.persistent_timer_flutter;
+package com.example.persistent_timer;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
